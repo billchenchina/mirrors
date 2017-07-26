@@ -27,3 +27,9 @@
 网易镜像仓库 [Link](http://mirrors.163.com/ubuntu/)
 
 阿里云镜像仓库 [Link](https://mirrors.aliyun.com/ubuntu/)
+
+### Eclipse
+
+日本先进科学技术研究所下载 [Link](http://ftp.jaist.ac.jp/pub/eclipse/technology/epp/downloads/release/)
+
+官方下载 [Link](http://www.eclipse.org/downloads/eclipse-packages/)
