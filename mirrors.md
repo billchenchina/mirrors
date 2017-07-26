@@ -20,6 +20,10 @@
 
 网易二进制镜像 [Link](http://mirrors.163.com/ubuntu-releases/)
 
+阿里云二进制镜像 [Link](https://mirrors.aliyun.com/ubuntu-releases/)
+
 官方二进制文件镜像 [Link](http://cn.ubuntu.com/download/)
 
 网易镜像仓库 [Link](http://mirrors.163.com/ubuntu/)
+
+阿里云镜像仓库 [Link](https://mirrors.aliyun.com/ubuntu/)
